@@ -1,0 +1,488 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Technopark\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-13 12:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. %s: post date
+#: inc/template-tags.php:49
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: functions.php:369 functions.php:379
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:359
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:1006
+msgid "Address"
+msgstr ""
+
+#: functions.php:1278 functions.php:1280
+msgid "AKTUELLE PROJEKTE"
+msgstr ""
+
+#: functions.php:914
+msgid "Article Slider"
+msgstr ""
+
+#: functions.php:916
+msgid "Article Slider Block"
+msgstr ""
+
+#: functions.php:747
+msgid "Block With Icon"
+msgstr ""
+
+#: functions.php:749
+msgid "Block with Icon"
+msgstr ""
+
+#: functions.php:357
+msgid "Blog Sidebar"
+msgstr ""
+
+#. %s: post author
+#: inc/template-tags.php:21
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "Categories"
+msgstr ""
+
+#: functions.php:490
+msgid "Collapse child menu"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Color Scheme"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. %s: Name of current post
+#: functions.php:407 template-parts/page/content-front-page-panels.php:43
+#: template-parts/page/content-front-page.php:40
+#: template-parts/post/content-audio.php:83
+#: template-parts/post/content-news.php:47
+#: template-parts/post/content-gallery.php:70
+#: template-parts/post/content-video.php:82
+#: template-parts/post/content-image.php:59 template-parts/post/content.php:36
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Dark"
+msgstr ""
+
+#: inc/custom-header.php:49
+msgid "Default Header Image"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:114
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: functions.php:1027
+msgid "Email"
+msgstr ""
+
+#: functions.php:489
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:845 functions.php:847
+msgid "Experience Block"
+msgstr ""
+
+#: functions.php:1020
+msgid "Faq"
+msgstr ""
+
+#: functions.php:983 functions.php:985 functions.php:1098
+msgid "Firmengruppe Block"
+msgstr ""
+
+#. Name of the template
+msgid "Firmengruppe Page"
+msgstr ""
+
+#: template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr ""
+
+#: functions.php:367
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:377
+msgid "Footer 2"
+msgstr ""
+
+#: inc/template-tags.php:148
+#, php-format
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#. %d is the front page section number
+#: inc/customizer.php:107
+#, php-format
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: functions.php:58
+msgid "Home Menu"
+msgstr ""
+
+#: template-parts/footer/site-info.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions.php:757
+msgid "Icon"
+msgstr ""
+
+#: functions.php:1196
+msgid "Image"
+msgstr ""
+
+#: functions.php:923
+msgid "Images"
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: template-parts/post/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Author of the theme
+msgid "Kamil Mugutdinov"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#. Name of the template
+msgid "Leistungen Page"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Libre Franklin, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:309
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Light"
+msgstr ""
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr ""
+
+#: functions.php:1186 functions.php:1188
+msgid "Mitarbeiter Block With Image"
+msgstr ""
+
+#: functions.php:60
+msgid "Modal Menus"
+msgstr ""
+
+#: functions.php:999
+msgid "Name"
+msgstr ""
+
+#: comments.php:67
+msgid "Next"
+msgstr ""
+
+#: search.php:44 archive.php:44
+msgid "Next page"
+msgstr ""
+
+#: search.php:21 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer.php:82 inc/customizer.php:131
+msgid "One Column"
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: search.php:45 archive.php:45
+msgid "Page"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Page Layout"
+msgstr ""
+
+#: template-parts/page/content-page.php:25
+#: template-parts/post/content-audio.php:88
+#: template-parts/post/content-news.php:52
+#: template-parts/post/content-gallery.php:75
+#: template-parts/post/content-video.php:87
+#: template-parts/post/content-image.php:64 template-parts/post/content.php:41
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:1096
+msgid "Partner Block"
+msgstr ""
+
+#: functions.php:1142
+msgid "partners Slider"
+msgstr ""
+
+#: functions.php:1144
+msgid "partners Slider Block"
+msgstr ""
+
+#: inc/custom-header.php:120
+msgid "Pause background video"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/custom-header.php:119
+msgid "Play background video"
+msgstr ""
+
+#: inc/icon-functions.php:43
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/icon-functions.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: functions.php:1218
+msgid "Position"
+msgstr ""
+
+#: functions.php:1105
+msgid "Post Type"
+msgstr ""
+
+#: comments.php:66
+msgid "Previous"
+msgstr ""
+
+#: search.php:43 archive.php:43
+msgid "Previous page"
+msgstr ""
+
+#. Name of the template
+msgid "Project Page"
+msgstr ""
+
+#: template-parts/footer/site-info.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: template-parts/post/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: functions.php:1331 functions.php:1333
+msgid "REALISIERTE PROJEKTE"
+msgstr ""
+
+#: comments.php:60
+msgid "Reply"
+msgstr ""
+
+#: template-parts/navigation/navigation-top.php:27
+#: template-parts/header/site-branding.php:34
+msgid "Scroll down to content"
+msgstr ""
+
+#. Name of the template
+msgid "Search page"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid ""
+"Select pages to feature in each area from the dropdowns. Add an image to a "
+"section by setting a featured image in the page editor. Empty sections will "
+"not be displayed."
+msgstr ""
+
+#: functions.php:61
+msgid "Sidebar Menu"
+msgstr ""
+
+#. Name of the template
+msgid "Simple Page"
+msgstr ""
+
+#: functions.php:1034
+msgid "Site"
+msgstr ""
+
+#: functions.php:59 functions.php:233
+msgid "Social Links Menu"
+msgstr ""
+
+#: search.php:50
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Name of the template
+msgid "Stellenagebote Page"
+msgstr ""
+
+#: searchform.php:18
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgid "Tags"
+msgstr ""
+
+#. Name of the theme
+msgid "Technopark"
+msgstr ""
+
+#: functions.php:750 functions.php:848 functions.php:917 functions.php:986
+#: functions.php:1099 functions.php:1145 functions.php:1189 functions.php:1281
+#: functions.php:1334
+msgid "Technopark Elements"
+msgstr ""
+
+#: functions.php:1225
+msgid "Telefon:"
+msgstr ""
+
+#: functions.php:1013
+msgid "Telephone"
+msgstr ""
+
+#: functions.php:779 functions.php:865
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:198
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr ""
+
+#: functions.php:190
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr ""
+
+#: functions.php:194
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr ""
+
+#: functions.php:768 functions.php:855 functions.php:992 functions.php:1207
+msgid "Title"
+msgstr ""
+
+#: functions.php:222 template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr ""
+
+#: inc/back-compat.php:39 inc/back-compat.php:51 inc/back-compat.php:66
+#, php-format
+msgid ""
+"Twenty Seventeen requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer.php:83 inc/customizer.php:132
+msgid "Two Column"
+msgstr ""
+
+#. Name of the template
+msgid "Uber Page"
+msgstr ""
+
+#: functions.php:786
+msgid "Use Small Font Size?"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid ""
+"When the two-column layout is assigned, the page title is in one column and "
+"content is in the other."
+msgstr ""
